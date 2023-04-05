@@ -16,7 +16,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - JavaScript
 - Sass e css
-- Git e Github
 
 ## 📍 Bibliotecas utilizadas
 
